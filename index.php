@@ -1,6 +1,6 @@
 <?php
 $get = $_GET['get'];
-$mpdUrl = 'https://linears2-playback.astro.com.my/vsg/41PRoPlPVA72W-bkKRiivWcUpieMdt0C8xZECS4qf0ZCc=W8ZI/dash-wv' . $get;
+$mpdUrl = 'https://linears2-playback.astro.com.my/vsg/41PRoPlPVA72W-bkKRiivWcUpieMdt0C8xZECS4qf0ZCc=W8ZI/dash-wv/jitp-dashisowm/' . $get;
 
 $mpdheads = [
   'http' => [
